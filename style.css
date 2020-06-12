@@ -1,0 +1,6 @@
+body{
+  background: url(taiwan.jpg) no-repeat;
+  background-size: contain;
+  padding-top: 42%;
+  width: 100%;
+}
