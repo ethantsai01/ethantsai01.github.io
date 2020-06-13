@@ -2,6 +2,7 @@ body{
   font-family: 'Quicksand', sans-serif;
   background-color: #00BFFF;
   background-position: center;
+  overflow: hidden;
 }
 
 /* navigation menu */
