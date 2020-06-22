@@ -30,9 +30,24 @@ body{
 }
 
 /* home */
-.nameheader {
+.home {
   text-align: center;
   position: relative;
   color: white;
-  margin-top: 100px;
+  margin-top: 5%;
+  animation: text 3s 1;
+}
+
+/* home animations */
+@@keyframes text {
+  0% {
+    color: #00BFFF;
+    
+  }
+  30% {
+
+  }
+  85% {
+
+  }
 }
