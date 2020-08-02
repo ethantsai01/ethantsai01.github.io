@@ -11,6 +11,7 @@ body{
   width: 100%;
   position: -webkit-sticky;
   position: sticky;
+  background-color: #333;
   overflow: hidden;
   z-index: 1;
 }
@@ -36,18 +37,4 @@ body{
   color: white;
   margin-top: 5%;
   animation: text 3s 1;
-}
-
-/* home animations */
-@@keyframes text {
-  0% {
-    color: #00BFFF;
-    
-  }
-  30% {
-
-  }
-  85% {
-
-  }
 }
