@@ -46,6 +46,10 @@ body{
     text-transform: uppercase;
 }
 
+.gallery-block .heading h3{
+    font-size: 1.0rem;
+}
+
 .gallery-block.compact-gallery .item{
   overflow: hidden;
   margin-bottom: 0;
